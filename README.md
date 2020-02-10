@@ -14,4 +14,4 @@ npm run dev
 
 ## Usage
 
-If no error on terminal/cmd, open browser and type in address bar ```localhost:3000```
+If no error on terminal/cmd, open browser and type ```localhost:3000``` in address bar.
