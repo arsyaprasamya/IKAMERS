@@ -1,6 +1,6 @@
 # IKAMERS
 
-Ikamers is an simple e-commerce website.
+Ikamers is an simple e-commerce website. Build with vanilla JavaScript, Node.js for server and file-based data store for database.
 
 ## Installation
 
